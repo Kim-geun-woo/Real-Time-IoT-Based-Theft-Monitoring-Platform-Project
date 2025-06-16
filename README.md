@@ -38,8 +38,8 @@
 
 ## 🎥 영상
 
-- [시연 영상 1](https://youtube.com/shorts/K703nKvYJQI?feature=share)  
-- [시연 영상 2](https://youtube.com/shorts/cPOWDACozco?feature=share)  
+- [시연 영상 1: 가방의 지퍼가 열리고 도난당하는 상황](https://youtube.com/shorts/K703nKvYJQI?feature=share)  
+- [시연 영상 2: 가방을 도난당하는 상황](https://youtube.com/shorts/cPOWDACozco?feature=share)  
 - [PCB 영상](https://youtu.be/zFs6c_TpFcU)
 
 ---
